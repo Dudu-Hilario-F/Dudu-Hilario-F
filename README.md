@@ -1,6 +1,6 @@
 # 🏄‍♂️ Carlos Eduardo Hilario Ferreira
 
-**`Desenvolvedor (Banco de dados/Programação/Analise de dados)`**
+**`Desenvolvedor (Banco de dados/Programação)`**
 
 Estudante de Tecnólogo em Banco de Dados | DBA
 
