@@ -4,10 +4,10 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **Tecnólogo em Bancos de Dados** apaixonado por dados, performance e soluções robustas. Atualmente, estou focado em aprimorar minhas habilidades como **DBA (Administrador de Banco de Dados)**, com experiência em ambientes PostgreSQL, MySQL e Oracle.
+Sou um **Tecnólogo em Bancos de Dados** apaixonado por dados, performance e soluções robustas. Atualmente, estou focado em aprimorar minhas habilidades como **DBA (Administrador de Banco de Dados)**, com experiência em ambientes PostgreSQL, MySQL e Oracle, mas também gosto muito de Python e estudas coisas relacionadas, como projetos web, jogos e IAs.
 
-- 🎓 Graduado em **Tecnologia em Bancos de Dados**.
-- 🌱 Estudando e me aprofundando em **administração, otimização (tuning) e segurança** de bancos de dados.
+- 🎓 Graduando em **Tecnologia em Bancos de Dados**.
+- 🌱 Estudando e me aprofundando em **administração, otimização (tuning) e segurança** de bancos de dados e Python e suas Libs (django, djangoRestFramework)
 - 💡 Tenho um interesse especial por **automação de rotinas de backup/restore** e **modelagem de dados** para garantir a integridade e o desempenho dos sistemas.
 - 🚀 Buscando oportunidades para aplicar meu conhecimento e contribuir para projetos desafiadores.
 
