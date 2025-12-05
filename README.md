@@ -1,10 +1,22 @@
-# Olá, eu sou o Carlos Eduardo! 👋
+# Bem vindo ao meu github irmão me chamo Carlos Eduardo! 👋
 
 <br>
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **Tecnólogo em Bancos de Dados** apaixonado por dados, performance e soluções robustas. Atualmente, estou focado em aprimorar minhas habilidades como **DBA (Administrador de Banco de Dados)**, com experiência em ambientes PostgreSQL, MySQL e Oracle, mas também gosto muito de Python e estudas coisas relacionadas, como projetos web, jogos e IAs.
+Sou estagiário na área de Infraestrutura e Administração de Banco de Dados, construindo minha experiência a partir do suporte técnico N1 e avançando para atuar em tarefas práticas de administração e manutenção do ambiente corporativo.
+
+Atualmente contribuo com:
+
+Administração básica de servidores XCP-ng
+
+Atividades de infraestrutura (rede, virtualização e serviços internos)
+
+Administração de bancos de dados (PostgreSQL e MySQL)
+
+Gerenciamento de servidores de armazenamento
+
+Já implementei soluções como o Chatwoot, desde a preparação do ambiente até o deploy funcional no servidor.
 
 - 🎓 Graduando em **Tecnologia em Bancos de Dados**.
 - 🌱 Estudando e me aprofundando em **administração, otimização (tuning) e segurança** de bancos de dados e Python e suas Libs (django, djangoRestFramework)
