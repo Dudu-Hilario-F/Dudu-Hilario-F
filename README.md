@@ -8,16 +8,23 @@ Sou estagiário na área de Infraestrutura e Administração de Banco de Dados, 
 
 Atualmente contribuo com:
 
-Administração básica de servidores XCP-ng
+1. Administração básica de servidores XCP-ng
+2. Administração de servidores de arquivos samba
+3. Atividades de infraestrutura (rede, virtualização e serviços internos)
+4. Administração de bancos de dados (PostgreSQL e MySQL)
+5. Gerenciamento de servidores de armazenamento
 
-Atividades de infraestrutura (rede, virtualização e serviços internos)
+Já implementei soluções como o Chatwoot usando docker, desde a preparação do ambiente até o deploy funcional no servidor.
 
-Administração de bancos de dados (PostgreSQL e MySQL)
-
-Gerenciamento de servidores de armazenamento
-
-Já implementei soluções como o Chatwoot, desde a preparação do ambiente até o deploy funcional no servidor.
-
+Stack & Tecnologias que utilizo
+- Docker
+- Docker Swarm
+- Nginx e Traefik
+- PostgreSQL & MySQL
+- Zabbix & Grafana (basico)
+- GLPI (Administração)
+  
+<br>
 - 🎓 Graduando em **Tecnologia em Bancos de Dados**.
 - 🌱 Estudando e me aprofundando em **administração, otimização (tuning) e segurança** de bancos de dados e Python e suas Libs (django, djangoRestFramework)
 - 💡 Tenho um interesse especial por **automação de rotinas de backup/restore** e **modelagem de dados** para garantir a integridade e o desempenho dos sistemas.
@@ -31,13 +38,13 @@ Já implementei soluções como o Chatwoot, desde a preparação do ambiente at�
   <h3><b>Bancos de Dados</b></h3>
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  
   <br>
   <h3><b>Linguagens e Scripting</b></h3>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Shell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <br>
+  
   <h3><b>Ferramentas e Tecnologias</b></h3>
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
