@@ -1,4 +1,4 @@
-# Bem vindo ao meu github irmão me chamo Carlos Eduardo! 👋
+# Me chamo Carlos Eduardo! 👋
 
 <br>
 
