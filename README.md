@@ -25,11 +25,10 @@ Stack & Tecnologias que utilizo
 - GLPI (Administração)
   
 <br>
-- 🎓 Graduando em **Tecnologia em Bancos de Dados**.
-- 🌱 Estudando e me aprofundando em **administração, otimização (tuning) e segurança** de bancos de dados e Python e suas Libs (django, djangoRestFramework)
-- 💡 Tenho um interesse especial por **automação de rotinas de backup/restore** e **modelagem de dados** para garantir a integridade e o desempenho dos sistemas.
-- 🚀 Buscando oportunidades para aplicar meu conhecimento e contribuir para projetos desafiadores.
 
+- 🎓 Graduando em **Tecnologia em Bancos de Dados** e cursando redes de computadores na Cisco.
+- 🌱 Me especializando em administração de banco de dados e administração de infraestrutura
+  
 <br>
 
 ## 🚀 Habilidades Técnicas
