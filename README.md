@@ -61,11 +61,3 @@ Stack & Tecnologias que utilizo
 </div>
 
 <br>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Dudu-Hilario-F">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dudu-Hilario-F&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudu-Hilario-F&layout=compact&langs_count=7&theme=dracula"/>
-</div>
