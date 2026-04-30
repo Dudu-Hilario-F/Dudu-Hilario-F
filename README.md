@@ -2,31 +2,41 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo com infraestrutura, bancos de dados e segurança da informação, com experiência prática em ambientes corporativos envolvendo virtualização, redes e serviços internos.
+Atuo na administração de infraestrutura, redes e segurança da informação em ambiente corporativo público, sendo responsável pela operação, manutenção e evolução do ambiente tecnológico.
 
-Tenho evolução sólida a partir do suporte técnico (N1), hoje contribuindo diretamente na administração e manutenção de ambientes, com foco em estabilidade, organização e segurança.
+Minha atuação envolve desde a sustentação da rede até a implementação de controles de segurança, garantindo disponibilidade, organização e proteção dos serviços.
 
-### Principais atividades
+### Principais responsabilidades
 
-* Administração de ambientes virtualizados com XCP-ng
-* Gerenciamento de servidores Linux e serviços (Samba, aplicações internas)
+* Administração da infraestrutura de rede (LAN, VLANs e segmentação)
+* Gerenciamento e configuração de firewall (controle de acesso, regras e segurança)
+* Administração de OLT e rede de fibra óptica
+* Gestão de ambientes virtualizados com XCP-ng
+* Administração de servidores Linux e serviços internos (Samba, aplicações)
 * Administração de bancos de dados (PostgreSQL e MySQL)
-* Suporte a infraestrutura de rede e serviços corporativos
-* Gestão de armazenamento e organização de dados
-* Participação em iniciativas de segurança da informação
+* Gerenciamento de armazenamento e organização de dados
+* Implementação de boas práticas de segurança da informação
 
 ### Projetos e implementações
 
-* Deploy completo do Chatwoot com Docker (provisionamento, configuração e publicação)
-* Estruturação de serviços utilizando Docker e Docker Swarm
-* Implementação e acompanhamento básico de monitoramento com Zabbix e Grafana
+* Estruturação de rede segmentada por VLANs para isolamento de serviços
+* Configuração e ajuste de regras de firewall para controle e proteção da rede
+* Deploy de aplicações com Docker (ex: Chatwoot em ambiente produtivo)
+* Implementação de monitoramento com Zabbix e Grafana
+* Organização de serviços internos e padronização de ambientes
 
 ---
 
 ## 🧰 Stack e Tecnologias
 
-**Infraestrutura e DevOps**
-Docker • Docker Swarm • Nginx • Traefik • Linux
+**Infraestrutura e Redes**
+XCP-ng • Linux • VLANs • Redes TCP/IP • OLT • Fibra óptica
+
+**Segurança da Informação**
+Firewall • Segmentação de rede • Controle de acesso • Hardening básico
+
+**DevOps e Serviços**
+Docker • Docker Swarm • Nginx • Traefik
 
 **Bancos de Dados**
 PostgreSQL • MySQL
@@ -42,15 +52,15 @@ Python • SQL
 ## 🎓 Formação
 
 * Tecnologia em Banco de Dados (em andamento)
-* Formação em Redes de Computadores (Cisco)
+* Redes de Computadores (Cisco)
 
 ---
 
 ## 🎯 Foco atual
 
 * Segurança da Informação aplicada à infraestrutura
-* Hardening de ambientes Linux e serviços
-* Monitoramento e observabilidade
+* Segmentação e proteção de redes corporativas
+* Monitoramento e resposta a incidentes
 * Automação de rotinas administrativas
 
 ---
