@@ -1,63 +1,61 @@
-# Me chamo Carlos Eduardo! 👋
+# Carlos Eduardo 👋
 
-<br>
+## 👨‍💻 Sobre mim
 
-## 👨‍💻 Sobre Mim
+Atuo com infraestrutura, bancos de dados e segurança da informação, com experiência prática em ambientes corporativos envolvendo virtualização, redes e serviços internos.
 
-Sou estagiário na área de Infraestrutura e Administração de Banco de Dados, construindo minha experiência a partir do suporte técnico N1 e avançando para atuar em tarefas práticas de administração e manutenção do ambiente corporativo.
+Tenho evolução sólida a partir do suporte técnico (N1), hoje contribuindo diretamente na administração e manutenção de ambientes, com foco em estabilidade, organização e segurança.
 
-Atualmente contribuo com:
+### Principais atividades
 
-1. Administração básica de servidores XCP-ng
-2. Administração de servidores de arquivos samba
-3. Atividades de infraestrutura (rede, virtualização e serviços internos)
-4. Administração de bancos de dados (PostgreSQL e MySQL)
-5. Gerenciamento de servidores de armazenamento
+* Administração de ambientes virtualizados com XCP-ng
+* Gerenciamento de servidores Linux e serviços (Samba, aplicações internas)
+* Administração de bancos de dados (PostgreSQL e MySQL)
+* Suporte a infraestrutura de rede e serviços corporativos
+* Gestão de armazenamento e organização de dados
+* Participação em iniciativas de segurança da informação
 
-Já implementei soluções como o Chatwoot usando docker, desde a preparação do ambiente até o deploy funcional no servidor.
+### Projetos e implementações
 
-Stack & Tecnologias que utilizo
-- Docker
-- Docker Swarm
-- Nginx e Traefik
-- PostgreSQL & MySQL
-- Zabbix & Grafana (basico)
-- GLPI (Administração)
-  
-<br>
+* Deploy completo do Chatwoot com Docker (provisionamento, configuração e publicação)
+* Estruturação de serviços utilizando Docker e Docker Swarm
+* Implementação e acompanhamento básico de monitoramento com Zabbix e Grafana
 
-- 🎓 Graduando em **Tecnologia em Bancos de Dados** e cursando redes de computadores na Cisco.
-- 🌱 Me especializando em administração de banco de dados e administração de infraestrutura
-  
-<br>
+---
 
-## 🚀 Habilidades Técnicas
+## 🧰 Stack e Tecnologias
 
-<div style="display: inline_block"><br>
-  <h3><b>Bancos de Dados</b></h3>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  
-  <br>
-  <h3><b>Linguagens e Scripting</b></h3>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <br>
-  
-  <h3><b>Ferramentas e Tecnologias</b></h3>
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
+**Infraestrutura e DevOps**
+Docker • Docker Swarm • Nginx • Traefik • Linux
 
-<br>
+**Bancos de Dados**
+PostgreSQL • MySQL
 
-## 📫 Entre em Contato
+**Monitoramento e Gestão**
+Zabbix • Grafana • GLPI
 
-<div>
-<a href="https://www.linkedin.com/in/carlos-eduardo-921708280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "carloseduardo:carloseduardohferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+**Scripting e Automação**
+Python • SQL
 
-<br>
+---
+
+## 🎓 Formação
+
+* Tecnologia em Banco de Dados (em andamento)
+* Formação em Redes de Computadores (Cisco)
+
+---
+
+## 🎯 Foco atual
+
+* Segurança da Informação aplicada à infraestrutura
+* Hardening de ambientes Linux e serviços
+* Monitoramento e observabilidade
+* Automação de rotinas administrativas
+
+---
+
+## 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/carlos-eduardo-921708280/
+* Email: [carloseduardohferreira@gmail.com](mailto:carloseduardohferreira@gmail.com)
