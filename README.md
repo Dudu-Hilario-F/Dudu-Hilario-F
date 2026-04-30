@@ -16,7 +16,7 @@ Minha atuação envolve desde a sustentação da rede até a implementação de 
 * Administração de bancos de dados (PostgreSQL e MySQL)
 * Gerenciamento de armazenamento e organização de dados
 * Implementação de boas práticas de segurança da informação
-* Imprementação de documentação para a equipe tecnica
+* Implementação da documentação para a equipe tecnica
 
 ### Projetos e implementações
 
