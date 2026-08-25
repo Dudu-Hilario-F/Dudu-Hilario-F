@@ -1,6 +1,6 @@
 # 👨‍💻 Carlos Eduardo Hilário Ferreira
 
-**Analista de Segurança da Informação** | Infraestrutura, Observabilidade e Blue Team Jr
+**Analista de Segurança da Informação** | Infraestrutura, Observabilidade e Read Team Jr
 
 Atuo na **Prefeitura de Paraíba do Sul** com foco em cibersegurança e segurança de rede, sendo responsável pela infraestrutura, segmentação de rede, firewalls e monitoramento de segurança do ambiente. Atualmente estou me especializando em **Red Team e Pentest**, com foco na certificação **CRTA (Certified Red Team Analyst)**.
 
